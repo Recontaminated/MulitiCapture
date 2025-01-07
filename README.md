@@ -3,5 +3,5 @@ stupid python program that lets me host games with people at my school and have 
 
 
 ---
-#License
+# License
 WTFPL
